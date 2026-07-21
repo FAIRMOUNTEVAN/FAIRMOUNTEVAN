@@ -1,2 +1,2 @@
 <p align="center">
-<img width="467" height="319" alt="cal-gabriel-zero-day" src="https://github.com/user-attachments/assets/375e0d4f-ad6e-421b-b409-216426201bee" />
+<img width="498" height="373" alt="calvin-gabriel-cal-gabriel (1)" src="https://github.com/user-attachments/assets/71d467f8-d81d-4d70-86d3-adefd1a2494e" />
