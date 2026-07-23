@@ -9,7 +9,7 @@
 
  
    $${\textsf{\color{#550F08} **zero day fans PLEASE int**}}$$
-    $${\textsf{\color{#550F08} **tcc dni**}}$$
+    $${\textsf{\color{#550F08} **TCC DNI**}}$$
 
 
 
