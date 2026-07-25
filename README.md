@@ -9,7 +9,7 @@
 
  
    $${\textsf{\color{#550F08} **zero day fans PLEASE int**}}$$
-    $${\textsf{\color{#550F08} **TCC DNI**}}$$
+    $${\textsf{\color{#550F08} **I would like to make it clear that I am not TCC, nor will I ever be.**}}$$
 
 
 
