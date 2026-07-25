@@ -8,8 +8,6 @@
 <img width="498" height="373" alt="calvin-gabriel-cal-gabriel (1)" src="https://github.com/user-attachments/assets/b308dbac-3a0c-4ef3-be6d-50876627b36d" />
 
  
-   $${\textsf{\color{#550F08} **zero day fans PLEASE int**}}$$
-    $${\textsf{\color{#550F08} **I would like to make it clear that I am not TCC, nor will I ever be.**}}$$
 
-
-
+   
+   $${\textsf{\color{#550F08} **I would like to make it clear that I am not TCC, nor will I ever be.**}}$$
