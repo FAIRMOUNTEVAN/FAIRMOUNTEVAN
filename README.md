@@ -12,4 +12,3 @@
    
    $${\textsf{\color{#550F08} **I would like to make it clear that I am not TCC, nor will I ever be.**}}$$
 
-   $${\textsf{\color{#550F08} **sob ion know what my layout should be**}}$$
