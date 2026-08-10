@@ -5,9 +5,8 @@
 
 
 <p align="center">
-<img width="300" height="200" alt="cal-gabriel-zero-day" src="https://github.com/user-attachments/assets/5c94fcaa-a26d-4656-980c-3a1d893543d0" />
+<img width="349" height="230" alt="cal-gabriel" src="https://github.com/user-attachments/assets/84f959bf-106b-421b-a89d-8c592c81803a" />
 
- 
 
    
    $${\textsf{\color{#550F08} **I would like to make it clear that I am not TCC, nor will I ever be.**}}$$
