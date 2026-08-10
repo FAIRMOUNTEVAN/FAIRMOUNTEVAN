@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img width="893" height="1055" alt="Untitled1153_20260808191146" src="https://github.com/user-attachments/assets/8677ab1d-73d4-40d7-ac39-45dab72c8c3e" />
+<img width="300" height="200" alt="cal-gabriel-zero-day" src="https://github.com/user-attachments/assets/5c94fcaa-a26d-4656-980c-3a1d893543d0" />
 
  
 
