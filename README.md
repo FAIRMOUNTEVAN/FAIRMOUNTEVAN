@@ -8,3 +8,5 @@
    $${\textsf{\color{#550F08} **I would like to make it clear that I am not TCC, nor will I ever be.**}}$$
 
    $${\textsf{\color{#550F08} **THIS IS A WIP**}}$$
+
+   $${\textsf{\color{#550F08} **ic cred : drunkdr1ver on tumblr}}$$
