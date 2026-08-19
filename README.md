@@ -8,5 +8,3 @@
 
 
    $${\textsf{\color{#550F08} **THIS IS A WIP**}}$$
-
-   $${\textsf{\color{#550F08} ic cred : drunkdr1ver on tumblr}}$$
