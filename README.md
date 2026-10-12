@@ -7,4 +7,4 @@
    
 
 
-   $${\textsf{\color{#550F08} **PROFILE IS A WIP**}}$$
+   $${\textsf{\color{#550F08} **I'll rmk this someday I'm too lazy**}}$$
