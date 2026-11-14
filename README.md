@@ -7,4 +7,4 @@
    
 
 
-   $${\textsf{\color{#550F08} **I'll rmk this entire profile someday i don't care about it much**}}$$
+   $${\textsf{\color{#550F08} **I'll rmk this entire profile someday i don't care about it much and I'm currently not that active**}}$$
