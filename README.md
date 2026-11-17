@@ -34,15 +34,15 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
     <details>
       <summary>stupid shit i like</summary>
 $\color{#E53D53}\text{ The mendela catalog (favorite)}$ <br>
-      $\color{#0000}\text{ American horror story (favorite)}$ <br>
-      $\color{#0000}\text{ the Texas chainsaw massacre (kind of)}$ <br>
-     $\color{#0000}\text{ zeroday2003 (favorite)}$ <br>
-     $\color{#000}\text{  elephant2003 (kind of)}$ <br>
-     $\color{#0000}\text{ resident evil 2026 }$ <br>
-     $\color{#000}\text{ everymanhybrid }$ <br>
-     $\color{#0000}\text{ spree }$ <br>
-      $\color{#0000}\text{ creep2014 }$ <br>
-     $\color{#0000}\text{  I'll put more later }$ <br>
+      $\color{#9F2150}/text{ American horror story (favorite)}$ <br>
+      $\color{#E53D53}\text{ the Texas chainsaw massacre (kind of)}$ <br>
+     $\color{#9F2150}\text{ zeroday2003 (favorite)}$ <br>
+     $\color{#E53D53}\text{  elephant2003 (kind of)}$ <br>
+     $\color{#9F2150}\text{ resident evil 2026 }$ <br>
+     $\color{#E53D53}\text{ everymanhybrid }$ <br>
+     $\color{#9F2150}\text{ spree }$ <br>
+      $\color{#E53D53}\text{ creep2014 }$ <br>
+     $\color{#9F2150}\text{  I'll put more later }$ <br>
     </details>
     <details>
       <summary>$\color{#ca5a1b}\text{IWC}$</summary>
