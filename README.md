@@ -22,6 +22,14 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
     <summary>$\color{#9F2150}\text{BYI}$</summary>
     
    <details>
+      <summary>$\color{#9F2150}\text{ names you can call me }$</summary>
+      $\color{#E53D53}\text{ HABIT }$ <br>
+      $\color{#9F2150}\text{ cal }$ <br>
+      $\color{#E53D53}\text{ simon  }$ <br>
+      $\color{#9F2150}\text{ reese  }$ <br>
+      $\color{#E53D53}\text{ kosta  }$ <br>
+    </details>
+   <details>
       <summary>$\color{#E53D53}\text{important I guess}$</summary>
       $\color{#9F2150}\text{ I  can be mean and make crude jokes from time to time }$<br>
       $\color{#E53D53}\text{ i suggest not interacting with me}$<br>
