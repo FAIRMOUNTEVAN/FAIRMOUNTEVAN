@@ -85,6 +85,7 @@ ${{\color{#9F2150}\texttt{offtab}}}$
       $\color{#E53D53}\text{Cry}$ $\color{#C22F52}\text{of}$ $\color{#9F2150}\text{Fear}$ <br>
       $\color{#C22F52}\text{Pyromania}$ <br>
       $\color{#E53D53}\text{No,}$ $\color{#D43652}\text{I'm}$ $\color{#C22F52}\text{Not}$ $\color{#B12851}\text{a}$ $\color{#9F2150}\text{Human}$ <br>
+      $\color{#E53D53}\text{resident}$ $\color{#9F2150}\text{evil}$
       $\color{#E53D53}\text{DOOM}$ $\color{#9F2150}\text{(1993)}$ <br>
       $\color{#E53D53}\text{Sally}$ $\color{#9F2150}\text{Face}$
       <br><br>
