@@ -11,8 +11,8 @@ ${{\color{#9F2150}\texttt{him}}}$
 ${{\color{#E53D53}\texttt{ㅤ8}}}$
 ${{\color{#9F2150}\texttt{teen}}}$
 <p align="center">
-${{\color{#996530}\texttt{15-}}}$
-${{\color{#996530}\texttt{iwc⠀　}}}$
-${{\color{#996530}\texttt{w2i}}}$
-${{\color{#996530}\texttt{mostly}}}$
-${{\color{#996530}\texttt{offtab}}}$<br>
+${{\color{#E53D53}\texttt{15-}}}$
+${{\color{#9F2150}\texttt{iwc⠀　}}}$
+${{\color{#E53D53}\texttt{w2i}}}$
+${{\color{#9F2150}\texttt{mostly}}}$
+${{\color{#E53D53}\texttt{offtab}}}$<br>
