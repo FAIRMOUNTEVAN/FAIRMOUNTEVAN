@@ -8,8 +8,8 @@ ${{\color{#E53D53}\texttt{he   }}}$
 ${{\color{#9F2150}\texttt{him}}}$
 <img align="center" 
 
-${{\color{#996530}\texttt{ㅤ8}}}$
-${{\color{#996530}\texttt{teen}}}$
+${{\color{#6A194C}\texttt{ㅤ8}}}$
+${{\color{#E6504F}\texttt{teen}}}$
 <p align="center">
 ${{\color{#996530}\texttt{15-}}}$
 ${{\color{#996530}\texttt{iwc⠀　}}}$
