@@ -18,7 +18,8 @@ ${{\color{#E53D53}\texttt{w2i}}}$
 ${{\color{#9F2150}\texttt{mostly}}}$
 ${{\color{#E53D53}\texttt{offtab}}}$<br>
 <div align="center">
-<details>
+<div align="center">
+  <details>
     <summary>$\color{#9F2150}\text{BYI}$</summary>
     
    <details>
@@ -30,7 +31,7 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
       $\color{#E53D53}\text{ reese  }$ <br>
       $\color{#9F2150}\text{ kosta  }$ <br>
     </details>
-   <details>
+    <details>
       <summary>$\color{#E53D53}\text{important I guess}$</summary>
       $\color{#9F2150}\text{ I  can be mean and make crude jokes from time to time }$<br>
       $\color{#E53D53}\text{ i suggest not interacting with me}$<br>
@@ -41,26 +42,6 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
       $\color{#9F2150}\text{ just know it's not because you did anything wrong }$ 
     </details>
     <details>
-     <summary>$\color{#9F2150}\text{ stupid movies / series i enjoy }$</summary>
-     $\color{#E53D53}\text{ The mendela catalog (favorite)}$ <br>
-      $\color{#9F2150}\text{ American horror story (favorite)}$ <br>
-      $\color{#9F2150}\text{ zeroday2003 (favorite)}$ <br>
-      $\color{#E53D53}\text{ the Texas chainsaw massacre }$ <br>
-     $\color{#E53D53}\text{  elephant2003 }$ <br>
-     $\color{#9F2150}\text{ resident evil 2026 }$ <br>
-     $\color{#E53D53}\text{ everymanhybrid }$ <br>
-     $\color{#E53D53}\text{ creep2014 }$ <br>
-     $\color{#9F2150}\text{ spree }$ <br>
-     $\color{#9F2150}\text{  I'll put more later }$ <br>
-    </details>
-    <details>
-      <summary>$\color{#E53D53}\text{ games i enjoy }$</summary>
-      $\color{#9F2150}\text{ DOOM 1993}$ <br>
-      $\color{#E53D53}\text{ cry of fear }$ <br>
-      $\color{#9F2150}\text{ pyromaniac }$ <br>
-      $\color{#E53D53}\text{ sally face }$ <br>
-    </details>
-    <details>
       <summary>$\color{#9F2150}\text{IWC}$</summary>
       $\color{#E53D53}\text{- wip}$ <br>
       $\color{#9F2150}\text{- wip}$ <br>
@@ -68,7 +49,26 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
       $\color{#9F2150}\text{- wip}$ <br>
       $\color{#E53D53}\text{- wip}$ <br>
     </details>
+    <details>
+      <summary>$\color{#9F2150}\text{ stupid movies / series i enjoy }$</summary>
+      $\color{#E53D53}\text{ The mendela catalog (favorite)}$ <br>
+      $\color{#9F2150}\text{ American horror story (favorite)}$ <br>
+      $\color{#9F2150}\text{ zeroday2003 (favorite)}$ <br>
+      $\color{#E53D53}\text{ the Texas chainsaw massacre }$ <br>
+      $\color{#E53D53}\text{  elephant2003 }$ <br>
+      $\color{#9F2150}\text{ resident evil 2026 }$ <br>
+      $\color{#E53D53}\text{ everymanhybrid }$ <br>
+      $\color{#E53D53}\text{ creep2014 }$ <br>
+      $\color{#9F2150}\text{ spree }$ <br>
+      $\color{#9F2150}\text{  I'll put more later }$ <br>
+    </details
+    <details>
+      <summary>$\color{#E53D53}\text{ games i enjoy }$</summary>
+      $\color{#9F2150}\text{ DOOM 1993}$ <br>
+      $\color{#E53D53}\text{ cry of fear }$ <br>
+      $\color{#9F2150}\text{ pyromaniac }$ <br>
+      $\color{#E53D53}\text{ sally face }$ <br>
+    </details>
 
-    
   </details>
 </div>
