@@ -32,7 +32,7 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
       $\color{9F2150}\text{ just know it's not because you did anything wrong }$ 
     </details>
     <details>
-     <summary>$\color{E53D53}\text{ stupid movies / series i like }$</summary>
+     <summary>$\color{9F2150}\text{ stupid movies / series i like }$</summary>
      $\color{#E53D53}\text{ The mendela catalog (favorite)}$ <br>
       $\color{#9F2150}\text{ American horror story (favorite)}$ <br>
       $\color{#E53D53}\text{ the Texas chainsaw massacre (kind of)}$ <br>
