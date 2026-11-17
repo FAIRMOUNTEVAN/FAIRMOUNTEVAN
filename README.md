@@ -49,7 +49,7 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
       $\color{#E53D53}\text{- wip}$ <br>
     </details>
     <details>
-      <summary>$\color{#9F2150}\text{ stupid movies / series i enjoy }$</summary>
+      <summary>$\color{#9F2150}\text{ movies / series i enjoy }$</summary>
       $\color{#E53D53}\text{ The mendela catalog (favorite)}$ <br>
       $\color{#9F2150}\text{ American horror story (favorite)}$ <br>
       $\color{#9F2150}\text{ zeroday2003 (favorite)}$ <br>
