@@ -1,80 +1,85 @@
- $${\textsf{\color{#E43853} **unfortunately this looked a lot better on my tablet then it does my computer**}}$$
+<div align="center">
 
+<img width="400" height="400" alt="Untitled1641_20261116224633" src="https://github.com" />
 
-<p align="center">
-<img width="400" height="400" alt="another recolor" src="https://github.com/user-attachments/assets/097cb467-cd74-449a-8f1a-e0a237c16276" /><p align="center">
-<p align="center">
-${{\color{#E53D53}\texttt{he   }}}$
-${{\color{#9F2150}\texttt{him}}}$
-<img align="center" 
-
-${{\color{#E53D53}\texttt{ㅤ8}}}$
+<p>
+${{\color{#E53D53}\texttt{he}}}$
+${{\color{#CE3452}\texttt{him}}}$
+${{\color{#B62A51}\texttt{8}}}$
 ${{\color{#9F2150}\texttt{teen}}}$
-<p align="center">
+<br><br>
 ${{\color{#E53D53}\texttt{15-}}}$
-${{\color{#9F2150}\texttt{iwecuc　}}}$
-${{\color{#E53D53}\texttt{w2i}}}$
-${{\color{#9F2150}\texttt{mostly}}}$
-${{\color{#E53D53}\texttt{offtab}}}$<br>
-<div align="center">
-<div align="center">
-  <details>
-    <summary>$\color{#9F2150}\text{BYI}$</summary>
-    
-   <details>
-      <summary>$\color{#9F2150}\text{ names you can call me }$</summary>
-      $\color{#E53D53}\text{ HABIT (favorite) }$ <br>
-      $\color{#9F2150}\text{ cal (favorite) }$ <br>
-      $\color{#E53D53}\text{ tate (favorite) }$ <br>
-      $\color{#9F2150}\text{ simon  }$ <br>
-      $\color{#E53D53}\text{ reese  }$ <br>
-      $\color{#9F2150}\text{ kosta  }$ <br>
-    </details>
-    <details>
-      <summary>$\color{#E53D53}\text{ read this please }$</summary>
-      $\color{#9F2150}\text{ I  can be mean and make crude jokes from time to time }$<br>
-      $\color{#E53D53}\text{ i suggest not interacting with me}$<br>
-      $\color{#9F2150}\text{ if you're really sensitive }$ <br>
-      $\color{#E53D53}\text{ i would appreciate it if you told me if i said something that bothers you }$<br>
-      $\color{#9F2150}\text{ and won't say it again }$ <br>
-      $\color{#E53D53}\text{ i have a hard time talking to people and can be avoident especially if i don't know you }$<br>
-      $\color{#9F2150}\text{ just know it's not because you did anything wrong }$ 
-    </details>
-    <details>
-      <summary>$\color{#9F2150}\text{IWC}$</summary>
-      $\color{#E53D53}\text{- wip}$ <br>
-      $\color{#9F2150}\text{- wip}$ <br>
-      $\color{#E53D53}\text{- wip }$ <br>
-      $\color{#9F2150}\text{- wip}$ <br>
-      $\color{#E53D53}\text{- wip}$ <br>
-    </details>
-    <details>
-      <summary>$\color{#9F2150}\text{ stupid movies / series i enjoy }$</summary>
-      $\color{#E53D53}\text{ The mendela catalog (favorite)}$ <br>
-      $\color{#9F2150}\text{ American horror story (favorite)}$ <br>
-      $\color{#9F2150}\text{ zeroday2003 (favorite)}$ <br>
-      $\color{#E53D53}\text{ natural born killers }$ <br>
-      $\color{#E53D53}\text{  elephant2003 }$ <br>
-      $\color{#9F2150}\text{ resident evil 2026 }$ <br>
-      $\color{#E53D53}\text{ everymanhybrid }$ <br>
-      $\color{#E53D53}\text{ creep2014 }$ <br>
-      $\color{#9F2150}\text{ spree }$ <br>
-      $\color{#9F2150}\text{  I'll put more later }$ <br>
-    </details>
-    <details>
-      <summary>$\color{#E53D53}\text{ games i enjoy }$</summary>
-      $\color{#9F2150}\text{ DOOM 1993}$ <br>
-      $\color{#E53D53}\text{ cry of fear }$ <br>
-      $\color{#9F2150}\text{ pyromania }$ <br>
-      $\color{#E53D53}\text{ sally face }$ <br>
-    </details>
+${{\color{#D43652}\texttt{iwecuc}}}$
+&nbsp;&nbsp;&nbsp;&nbsp;
+${{\color{#C22F52}\texttt{w2i}}}$
+${{\color{#B12851}\texttt{mostly}}}$
+${{\color{#9F2150}\texttt{offtab}}}$
+</p>
 
-  </details>
+<br>
+
+<details>
+  <summary>$\color{#E53D53}\text{BYI}$</summary>
+  <br>
+    <details>
+      <summary>$\color{#E53D53}\text{click}$ $\color{#9F2150}\text{this}$</summary>
+      <br>
+      $\color{#E53D53}\text{I'm pretty}$ $\color{#D43652}\text{mean sometimes}$ $\color{#C22F52}\text{and make}$ $\color{#B12851}\text{a lot of}$ $\color{#9F2150}\text{crude, sarcastic}$ <br>
+      $\color{#E53D53}\text{jokes that}$ $\color{#D43652}\text{definitely}$ $\color{#C22F52}\text{aren't suitable}$ $\color{#B12851}\text{for everyone.}$ $\color{#9F2150}\text{If you're}$ <br>
+      $\color{#E53D53}\text{easily offended}$ $\color{#D43652}\text{or can't}$ $\color{#C22F52}\text{handle that}$ $\color{#B12851}\text{kind of}$ $\color{#9F2150}\text{humor, I'd}$ <br>
+      $\color{#E53D53}\text{probably}$ $\color{#D43652}\text{recommend not}$ $\color{#C22F52}\text{interacting}$ $\color{#B12851}\text{with me.}$ $\color{#9F2150}\text{I'm not}$ <br>
+      $\color{#E53D53}\text{really someone}$ $\color{#D43652}\text{who goes}$ $\color{#C22F52}\text{out of}$ $\color{#B12851}\text{their way}$ $\color{#9F2150}\text{to talk}$ <br>
+      $\color{#E53D53}\text{to people}$ $\color{#D43652}\text{I don't}$ $\color{#C22F52}\text{know, either,}$ $\color{#B12851}\text{so chances}$ $\color{#9F2150}\text{are I}$ <br>
+      $\color{#E53D53}\text{won't be}$ $\color{#D43652}\text{the one}$ $\color{#C22F52}\text{starting a}$ $\color{#B12851}\text{conversation.}$ $\color{#9F2150}\text{I'm pretty}$ <br>
+      $\color{#E53D53}\text{avoidant around}$ $\color{#D43652}\text{strangers and}$ $\color{#C22F52}\text{usually won't}$ $\color{#B12851}\text{bother talking}$ $\color{#9F2150}\text{unless I'm}$ <br>
+      $\color{#E53D53}\text{in the}$ $\color{#D43652}\text{mood or}$ $\color{#C22F52}\text{actually know}$ $\color{#B12851}\text{you. I'm}$ $\color{#9F2150}\text{just not}$ <br>
+      $\color{#E53D53}\text{all that}$ $\color{#D43652}\text{sociable with}$ $\color{#C22F52}\text{people I'm}$ $\color{#B12851}\text{unfamiliar}$ $\color{#9F2150}\text{with.}$
+      <br><br>
+    </details>
+    <br>
+    <details>
+      <summary>$\color{#9F2150}\text{WIP}$</summary>
+      <br>
+      $\color{#E53D53}\text{w}$ $\color{#9F2150}\text{i}$ $\color{#E53D53}\text{p}$ <br>
+      $\color{#E53D53}\text{w}$ $\color{#9F2150}\text{i}$ $\color{#E53D53}\text{p}$ <br>
+      $\color{#E53D53}\text{w}$ $\color{#9F2150}\text{i}$ $\color{#E53D53}\text{p}$ <br>
+      $\color{#E53D53}\text{w}$ $\color{#9F2150}\text{i}$ $\color{#E53D53}\text{p}$
+      <br><br>
+    </details>
+    <br>
+    <details>
+      <summary>$\color{#E53D53}\text{WIP}$</summary>
+      <br>
+      $\color{#E53D53}\text{w}$ $\color{#9F2150}\text{i}$ $\color{#E53D53}\text{p}$ <br>
+      $\color{#E53D53}\text{w}$ $\color{#9F2150}\text{i}$ $\color{#E53D53}\text{p}$ <br>
+      $\color{#E53D53}\text{w}$ $\color{#9F2150}\text{i}$ $\color{#E53D53}\text{p}$ <br>
+      $\color{#E53D53}\text{w}$ $\color{#9F2150}\text{i}$ $\color{#E53D53}\text{p}$
+      <br><br>
+    </details>
+    <br>
+    <details>
+      <summary>$\color{#9F2150}\text{Things i like}$</summary>
+      <br>
+      $\color{#E53D53}\text{Things}$ $\color{#D43652}\text{I'm into}$ $\color{#B12851}\text{/}$ $\color{#9F2150}\text{Favorites:}$ <br><br>
+      $\color{#E53D53}\text{Movies}$ $\color{#C22F52}\text{\&}$ $\color{#9F2150}\text{Shows:}$ <br>
+      $\color{#E53D53}\text{The}$ $\color{#D43652}\text{Mandela}$ $\color{#B12851}\text{Catalogue}$ $\color{#9F2150}\text{(favorite)}$ <br>
+      $\color{#E53D53}\text{American}$ $\color{#D43652}\text{Horror}$ $\color{#B12851}\text{Story}$ $\color{#9F2150}\text{(favorite)}$ <br>
+      $\color{#E53D53}\text{Natural}$ $\color{#C22F52}\text{Born}$ $\color{#9F2150}\text{Killers}$ <br>
+      $\color{#E53D53}\text{Resident}$ $\color{#C22F52}\text{Evil}$ $\color{#9F2150}\text{(2002)}$ <br>
+      $\color{#E53D53}\text{Elephant}$ $\color{#9F2150}\text{(2003)}$ <br>
+      $\color{#E53D53}\text{Creep}$ $\color{#9F2150}\text{(2014)}$ <br>
+      $\color{#C22F52}\text{Spree}$ <br><br>
+      $\color{#E53D53}\text{Web}$ $\color{#9F2150}\text{Series:}$ <br>
+      $\color{#E53D53}\text{zeroday2003}$ $\color{#9F2150}\text{(favorite)}$ <br>
+      $\color{#C22F52}\text{EverymanHYBRID}$ <br><br>
+      $\color{#C22F52}\text{Games:}$ <br>
+      $\color{#E53D53}\text{Cry}$ $\color{#C22F52}\text{of}$ $\color{#9F2150}\text{Fear}$ <br>
+      $\color{#C22F52}\text{Pyromania}$ <br>
+      $\color{#E53D53}\text{No,}$ $\color{#D43652}\text{I'm}$ $\color{#C22F52}\text{Not}$ $\color{#B12851}\text{a}$ $\color{#9F2150}\text{Human}$ <br>
+      $\color{#E53D53}\text{DOOM}$ $\color{#9F2150}\text{(1993)}$ <br>
+      $\color{#E53D53}\text{Sally}$ $\color{#9F2150}\text{Face}$
+      <br><br>
+    </details>
+</details>
+
 </div>
-
-<img width="400" height="400" alt="Untitled1641_20261116224427" src="https://github.com/user-attachments/assets/eb99ced3-ed2b-4b16-92e0-a626b7e43c9f" />
-
-
-
-
-
