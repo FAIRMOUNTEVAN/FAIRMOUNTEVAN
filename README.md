@@ -80,14 +80,14 @@ ${{\color{#9F2150}\texttt{offtab}}}$
       $\color{#E53D53}\text{Web}$ $\color{#9F2150}\text{Series:}$ <br>
       $\color{#E53D53}\text{The}$ $\color{#D43652}\text{Mandela}$ $\color{#B12851}\text{Catalogue}$ $\color{#9F2150}\text{(favorite)}$ <br>
       $\color{#E53D53}\text{zeroday2003}$ $\color{#9F2150}\text{(favorite)}$ <br>
-      $\color{#C22F52}\text{EverymanHYBRID}$ <br><br>
+      $\color{#C22F52}\text{EverymanHYBRID}$ $\color{#9F2150}\text{(favorite)}$ <br><br><br>
       $\color{#C22F52}\text{Games:}$ <br>
-      $\color{#E53D53}\text{Cry}$ $\color{#C22F52}\text{of}$ $\color{#9F2150}\text{Fear}$ <br>
+      $\color{#E53D53}\text{Cry}$ $\color{#C22F52}\text{of}$ $\color{#9F2150}\text{Fear}$ $\color{#9F2150}\text{(favorite)}$ <br>
       $\color{#C22F52}\text{Pyromania}$ <br>
       $\color{#E53D53}\text{afraid of }$ $\color{#9F2150}\text{monsters}$ <br>
       $\color{#E53D53}\text{No,}$ $\color{#D43652}\text{I'm}$ $\color{#C22F52}\text{Not}$ $\color{#B12851}\text{a}$ $\color{#9F2150}\text{Human}$ <br>
       $\color{#E53D53}\text{resident}$ $\color{#9F2150}\text{evil}$  <br>
-      $\color{#E53D53}\text{DOOM}$ $\color{#9F2150}\text{(1993)}$ <br>
+      $\color{#E53D53}\text{DOOM}$ $\color{#9F2150}\text{(1993)}$ $\color{#9F2150}\text{(favorite)}$ <br>
       $\color{#E53D53}\text{Sally}$ $\color{#9F2150}\text{Face}$
       <br><br>
     </details>
