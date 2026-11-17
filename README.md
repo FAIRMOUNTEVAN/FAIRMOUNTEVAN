@@ -73,7 +73,8 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
   </details>
 </div>
 
-<img width="1024" height="1024" alt="Untitled1641_20261117050615" src="https://github.com/user-attachments/assets/726fcbc6-df19-41d6-b1be-7e158248efd1" />
+<img width="1024" height="1024" alt="Untitled1641_20261116224427" src="https://github.com/user-attachments/assets/eb99ced3-ed2b-4b16-92e0-a626b7e43c9f" />
+
 
 
 
