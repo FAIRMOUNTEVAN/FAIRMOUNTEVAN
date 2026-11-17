@@ -53,7 +53,7 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
       $\color{#E53D53}\text{ The mendela catalog (favorite)}$ <br>
       $\color{#9F2150}\text{ American horror story (favorite)}$ <br>
       $\color{#9F2150}\text{ zeroday2003 (favorite)}$ <br>
-      $\color{#E53D53}\text{ the Texas chainsaw massacre }$ <br>
+      $\color{#E53D53}\text{ natural born killers }$ <br>
       $\color{#E53D53}\text{  elephant2003 }$ <br>
       $\color{#9F2150}\text{ resident evil 2026 }$ <br>
       $\color{#E53D53}\text{ everymanhybrid }$ <br>
