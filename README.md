@@ -52,12 +52,12 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
       $\color{#E53D53}\text{ sally face }$ <br>
     </details>
     <details>
-      <summary>$\color{#ca5a1b}\text{IWC}$</summary>
-      $\color{#ca5a1b}\text{- wip}$ <br>
-      $\color{#ca5a1b}\text{- wip}$ <br>
-      $\color{#ca5a1b}\text{- wil$ <br>
-      $\color{#ca5a1b}\text{- wip}$ <br>
-      $\color{#ca5a1b}\text{- wip}$ <br>
+      <summary>$\color{#9F2150}\text{IWC}$</summary>
+      $\color{#E53D53}\text{- wip}$ <br>
+      $\color{#9F2150}\text{- wip}$ <br>
+      $\color{#E53D53}\text{- wip }$ <br>
+      $\color{#9F2150}\text{- wip}$ <br>
+      $\color{#E53D53}\text{- wip}$ <br>
     </details>
 
   </details>
