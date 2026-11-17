@@ -1,6 +1,6 @@
 <div align="center">
 
-$\color{#E53D53}\text{I'll make}$ $\color{#D43652}\text{something}$ $\color{#C22F52}\text{for names}$ $\color{#B12851}\text{but call}$ $\color{#9F2150}\text{me,}$ <br>
+$\color{#E53D53}\text{I'll make}$ $\color{#D43652}\text{something}$ $\color{#C22F52}\text{for names}$ $\color{#B12851}\text{but for now call}$ $\color{#9F2150}\text{me,}$ <br>
 $\color{#E53D53}\text{HABIT,}$ $\color{#D43652}\text{cal,}$ $\color{#C22F52}\text{tate,}$ $\color{#B12851}\text{Simon}$ $\color{#9F2150}\text{or reese.}$
 
 </div>
