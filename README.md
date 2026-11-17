@@ -1,5 +1,7 @@
- $${\textsf{\color{#E43853} **unfortunately this looked a lot better on my tablet then it does my computer**}}$$<p align="center">
+ $${\textsf{\color{#E43853} **unfortunately this looked a lot better on my tablet then it does my computer**}}$$
 
+
+<p align="center">
 <img width="400" height="400" alt="another recolor" src="https://github.com/user-attachments/assets/097cb467-cd74-449a-8f1a-e0a237c16276" /><p align="center">
 <p align="center">
 ${{\color{#E53D53}\texttt{he   }}}$
@@ -29,7 +31,7 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
       $\color{#9F2150}\text{ kosta  }$ <br>
     </details>
     <details>
-      <summary>$\color{#E53D53}\text{important I think }$</summary>
+      <summary>$\color{#E53D53}\text{important I guess}$</summary>
       $\color{#9F2150}\text{ I  can be mean and make crude jokes from time to time }$<br>
       $\color{#E53D53}\text{ i suggest not interacting with me}$<br>
       $\color{#9F2150}\text{ if you're really sensitive }$ <br>
@@ -47,7 +49,7 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
       $\color{#E53D53}\text{- wip}$ <br>
     </details>
     <details>
-      <summary>$\color{#9F2150}\text{ movies / series i enjoy }$</summary>
+      <summary>$\color{#9F2150}\text{ stupid movies / series i enjoy }$</summary>
       $\color{#E53D53}\text{ The mendela catalog (favorite)}$ <br>
       $\color{#9F2150}\text{ American horror story (favorite)}$ <br>
       $\color{#9F2150}\text{ zeroday2003 (favorite)}$ <br>
