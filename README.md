@@ -6,8 +6,7 @@
  <p align="center">
 ${{\color{#0000}\texttt{he  ◞  }}}$
 ${{\color{#0000}\texttt{⠀him}}}$
-    
-   <img align="center" 
+     <img align="center" 
 ${{\color{#0000}\texttt{ㅤ8}}}$
 ${{\color{#0000}\texttt{teen}}}$
 <p align="center">
