@@ -17,3 +17,26 @@ ${{\color{#9F2150}\texttt{iwec⠀　}}}$
 ${{\color{#E53D53}\texttt{w2i}}}$
 ${{\color{#9F2150}\texttt{mostly}}}$
 ${{\color{#E53D53}\texttt{offtab}}}$<br>
+<div align="center">
+  <details>
+    <summary>$\color{#E53D53}\text{BYI}$</summary>
+    
+   <details>
+      <summary>$\color{#9F2150}\text{stupid shit about me}$</summary>
+      $\color{#E53D53}\text{- I can be a bit rude at time's}$<br>
+      $\color{#9F2150}\text{please iwec if you're really sensitive}$<br>
+      $\color{#E53D53}\text{okay }$ <br>
+      $\color{#9F2150}\text{- Im bad at setting boundaries and }$<br>
+      $\color{yellow}\text{shii but im trying to work on it ok??}$ <br>
+      $\color{yellow}\text{- And plz tell me if I said somtin that make}$<br>
+      $\color{yellow}\text{you uncomfortable I'll make sure I dont do it again..}$ 
+    </details>
+    <details>
+      <summary>$\color{#ca5a1b}\text{IWC}$</summary>
+      $\color{#ca5a1b}\text{- Hazbin Hotel and Helluva Boss}$ <br>
+      $\color{#ca5a1b}\text{- Stranger Things fandom (im sorry, ok?)}$ <br>
+      $\color{#ca5a1b}\text{- -16 or +20}$ <br>
+      $\color{#ca5a1b}\text{- Roblox fandoms}$ <br>
+      $\color{#ca5a1b}\text{- Im prob gonna add more on here later..}$ <br>
+    </details>
+
