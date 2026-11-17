@@ -22,17 +22,17 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
     <summary>$\color{#9F2150}\text{BYI}$</summary>
     
    <details>
-      <summary>$\color{E53D53}\text{important I guess}$</summary>
-      $\color{9F2150}\text{ I  can be mean and make crude jokes from time to time }$<br>
-      $\color{E53D53}\text{ i suggest not interacting with me}$<br>
-      $\color{9F2150}\text{ if you're really sensitive }$ <br>
-      $\color{E53D53}\text{ i would appreciate it if you told me if i said something that bothers you }$<br>
-      $\color{9F2150}\text{ and won't say it to you again }$ <br>
-      $\color{E53D53}\text{ i have a hard time talking to people and can be avoident if i don't know you }$<br>
-      $\color{9F2150}\text{ just know it's not because you did anything wrong }$ 
+      <summary>$\color{#E53D53}\text{important I guess}$</summary>
+      $\color{#9F2150}\text{ I  can be mean and make crude jokes from time to time }$<br>
+      $\color{#E53D53}\text{ i suggest not interacting with me}$<br>
+      $\color{#9F2150}\text{ if you're really sensitive }$ <br>
+      $\color{#E53D53}\text{ i would appreciate it if you told me if i said something that bothers you }$<br>
+      $\color{#9F2150}\text{ and won't say it to you again }$ <br>
+      $\color{#E53D53}\text{ i have a hard time talking to people and can be avoident if i don't know you }$<br>
+      $\color{#9F2150}\text{ just know it's not because you did anything wrong }$ 
     </details>
     <details>
-     <summary>$\color{9F2150}\text{ stupid movies / series i enjoy }$</summary>
+     <summary>$\color{#9F2150}\text{ stupid movies / series i enjoy }$</summary>
      $\color{#E53D53}\text{ The mendela catalog (favorite)}$ <br>
       $\color{#9F2150}\text{ American horror story (favorite)}$ <br>
       $\color{#E53D53}\text{ the Texas chainsaw massacre (kind of)}$ <br>
@@ -43,23 +43,21 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
      $\color{#9F2150}\text{ spree }$ <br>
       $\color{#E53D53}\text{ creep2014 }$ <br>
      $\color{#9F2150}\text{  I'll put more later }$ <br>
-      
-   <summary>$\color{#E53D53}\text{games i enjoy }$</summary>
-      $\color{#9F2150}\text{ cry of fear}$ <br>
-      $\color{#E53D53}\text{ pyromaniac }$ <br>
-      $\color{#9F2150}\text{ DOOM 1993 }$ <br>
-      $\color{#E53D53}\text{ sally face}$ <br>
-      $\color{#9F2150}\text{ I'll also add more to this later }$ <br>
+    </details>
+    <details>
+      <summary>$\color{#E53D53}\text{ games i enjoy }$</summary>
+      $\color{#9F2150}\text{ DOOM 1993}$ <br>
+      $\color{#E53D53}\text{ cry of fear }$ <br>
+      $\color{#9F2150}\text{ pyromaniac }$ <br>
     </details>
     <details>
       <summary>$\color{#ca5a1b}\text{IWC}$</summary>
-      $\color{#0000}\text{- wip}$ <br>
-      $\color{#0000}\text{- wip )}$ <br>
-      $\color{#0000}\text{-  wip }$ <br>
-      $\color{#00000}\text{- wip }$ <br>
-      $\color{#0000}\text{- wip}$ <br>
+      $\color{#ca5a1b}\text{- Hazbin Hotel and Helluva Boss}$ <br>
+      $\color{#ca5a1b}\text{- Stranger Things fandom (im sorry, ok?)}$ <br>
+      $\color{#ca5a1b}\text{- -16 or +20}$ <br>
+      $\color{#ca5a1b}\text{- Roblox fandoms}$ <br>
+      $\color{#ca5a1b}\text{- Im prob gonna add more on here later..}$ <br>
     </details>
 
   </details>
 </div>
- 
