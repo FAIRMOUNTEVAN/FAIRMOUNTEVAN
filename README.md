@@ -36,13 +36,13 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
 $\color{#ca5a1b}\text{ The mendela catalog (favorite)}$ <br>
       $\color{#ca5a1b}\text{ American horror story (favorite)}$ <br>
       $\color{#ca5a1b}\text{ the Texas chainsaw massacre (kind of)}$ <br>
-     $\color{#ca5a1b}\text{ resident evil 2026 }$ <br>
-     $\color{#ca5a1b}\text{ everymanhybrid }$ <br>
      $\color{#ca5a1b}\text{ zeroday2003 (favorite)}$ <br>
      $\color{#ca5a1b}\text{  elephant2003 (kind of)}$ <br>
+     $\color{#ca5a1b}\text{ resident evil 2026 }$ <br>
+     $\color{#ca5a1b}\text{ everymanhybrid }$ <br>
      $\color{#ca5a1b}\text{ spree }$ <br>
       $\color{#ca5a1b}\text{ creep2014 }$ <br>
-     $\color{#ca5a1b}\text{  I'll put more later )}$ <br>
+     $\color{#ca5a1b}\text{  I'll put more later }$ <br>
     </details>
     <details>
       <summary>$\color{#ca5a1b}\text{IWC}$</summary>
