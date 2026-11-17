@@ -7,8 +7,12 @@ $\color{#E53D53}\text{HABIT,}$ $\color{#D43652}\text{cal (Calvin),}$ $\color{#C2
 
 <div align="center">
 
+<img width="400" height="400" alt="Untitled1641_20261116224633" src="https://github.com/user-attachments/assets/a1ab6e7a-ac85-4ff3-9433-d68808d2f87d" />
 
-<img width="400" height="400" alt="Untitled1641_20261116224633" src="https://github.com/user-attachments/assets/0f5bf324-b5bc-4aad-8321-b5f319fb086d" />
+
+
+
+
 
 
 <p>
@@ -71,6 +75,7 @@ ${{\color{#9F2150}\texttt{offtab}}}$
       <br>
       $\color{#E53D53}\text{Things}$ $\color{#D43652}\text{I'm into}$ $\color{#B12851}\text{/}$ $\color{#9F2150}\text{Favorites:}$ <br><br>
       $\color{#E53D53}\text{Movies}$ $\color{#C22F52}\text{\&}$ $\color{#9F2150}\text{Shows:}$ <br>
+      $\color{#E53D53}\text{The}$ $\color{#D43652}\text{Mandela}$ $\color{#B12851}\text{Catalogue}$ $\color{#9F2150}\text{(favorite)}$ <br>
       $\color{#E53D53}\text{American}$ $\color{#D43652}\text{Horror}$ $\color{#B12851}\text{Story}$ $\color{#9F2150}\text{(favorite)}$ <br>
       $\color{#E53D53}\text{Natural}$ $\color{#C22F52}\text{Born}$ $\color{#9F2150}\text{Killers}$ <br>
       $\color{#E53D53}\text{Resident}$ $\color{#C22F52}\text{Evil}$ $\color{#9F2150}\text{(2026)}$ <br>
@@ -78,15 +83,14 @@ ${{\color{#9F2150}\texttt{offtab}}}$
       $\color{#E53D53}\text{Creep}$ $\color{#9F2150}\text{(2014)}$ <br>
       $\color{#C22F52}\text{Spree}$ <br><br>
       $\color{#E53D53}\text{Web}$ $\color{#9F2150}\text{Series:}$ <br>
-      $\color{#E53D53}\text{The}$ $\color{#D43652}\text{Mandela}$ $\color{#B12851}\text{Catalogue}$ $\color{#9F2150}\text{(favorite)}$ <br>
       $\color{#E53D53}\text{zeroday2003}$ $\color{#9F2150}\text{(favorite)}$ <br>
-      $\color{#C22F52}\text{EverymanHYBRID}$ $\color{#9F2150}\text{(favorite)}$ <br><br><br>
+      $\color{#C22F52}\text{EverymanHYBRID}$ $\color{#9F2150}\text{(favorite)}$ <br><br>
       $\color{#C22F52}\text{Games:}$ <br>
       $\color{#E53D53}\text{Cry}$ $\color{#C22F52}\text{of}$ $\color{#9F2150}\text{Fear}$ $\color{#9F2150}\text{(favorite)}$ <br>
-      $\color{#C22F52}\text{Pyromania}$ <br>
       $\color{#E53D53}\text{afraid of }$ $\color{#9F2150}\text{monsters}$ <br>
+      $\color{#C22F52}\text{Pyromania}$ <br>
       $\color{#E53D53}\text{No,}$ $\color{#D43652}\text{I'm}$ $\color{#C22F52}\text{Not}$ $\color{#B12851}\text{a}$ $\color{#9F2150}\text{Human}$ <br>
-      $\color{#E53D53}\text{resident}$ $\color{#9F2150}\text{evil}$  <br>
+      $\color{#E53D53}\text{ resident }$ $\color{#9F2150}\text{evil}$  <br>
       $\color{#E53D53}\text{DOOM}$ $\color{#9F2150}\text{(1993)}$ $\color{#9F2150}\text{(favorite)}$ <br>
       $\color{#E53D53}\text{Sally}$ $\color{#9F2150}\text{Face}$
       <br><br>
