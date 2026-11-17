@@ -1,3 +1,4 @@
+ $${\textsf{\color{#E43853} **unfortunately this looks a lot better on my tablet then it does my computer**}}$$
  $${\textsf{\color{#E43853} **I would like to make it clear that I am not TCC.**}}$$
  $${\textsf{\color{#E43853} **FINALLY REMAKING THIS A LOT OF THINGS WILL CHANGE**}}$$
 
