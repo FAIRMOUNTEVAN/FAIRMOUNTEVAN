@@ -66,7 +66,7 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
       <summary>$\color{#E53D53}\text{ games i enjoy }$</summary>
       $\color{#9F2150}\text{ DOOM 1993}$ <br>
       $\color{#E53D53}\text{ cry of fear }$ <br>
-      $\color{#9F2150}\text{ pyromaniac }$ <br>
+      $\color{#9F2150}\text{ pyromania }$ <br>
       $\color{#E53D53}\text{ sally face }$ <br>
     </details>
 
