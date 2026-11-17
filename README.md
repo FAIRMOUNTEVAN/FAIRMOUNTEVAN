@@ -1,7 +1,15 @@
-I'll make something for names but  call me, HABIT, cal, tate, Simon or reese. 
 <div align="center">
 
-<img width="400" height="400" alt="Untitled1641_20261116224633" src="https://github.com" />
+$\color{#E53D53}\text{I'll make}$ $\color{#D43652}\text{something}$ $\color{#C22F52}\text{for names}$ $\color{#B12851}\text{but call}$ $\color{#9F2150}\text{me,}$ <br>
+$\color{#E53D53}\text{HABIT,}$ $\color{#D43652}\text{cal,}$ $\color{#C22F52}\text{tate,}$ $\color{#B12851}\text{Simon}$ $\color{#9F2150}\text{or reese.}$
+
+</div>
+
+<div align="center">
+
+
+<img width="400" height="400" alt="Untitled1641_20261116224633" src="https://github.com/user-attachments/assets/0f5bf324-b5bc-4aad-8321-b5f319fb086d" />
+
 
 <p>
 ${{\color{#E53D53}\texttt{he}}}$
