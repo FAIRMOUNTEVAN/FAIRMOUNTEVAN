@@ -18,4 +18,41 @@ ${{\color{#E53D53}\texttt{w2i}}}$
 ${{\color{#9F2150}\texttt{mostly}}}$
 ${{\color{#E53D53}\texttt{offtab}}}$<br>
 <div align="center">
+<details>
+    <summary>$\color{#9F2150}\text{BYI}$</summary>
+    
+   <details>
+      <summary>$\color{E53D53}\text{important I guess}$</summary>
+      $\color{9F2150}\text{ I  can be mean and make crude jokes from time to time }$<br>
+      $\color{E53D53}\text{ i suggest not interacting with me}$<br>
+      $\color{9F2150}\text{ if you're really sensitive }$ <br>
+      $\color{E53D53}\text{ i would appreciate it if you told me if i said something that bothers you }$<br>
+      $\color{9F2150}\text{ and won't say it to you again }$ <br>
+      $\color{E53D53}\text{ i have a hard time talking to people and can be avoident if i don't know you }$<br>
+      $\color{9F2150}\text{ just know it's not because you did anything wrong }$ 
+    </details>
+    <details>
+      <summary>stupid shit i like</summary>
+$\color{#ca5a1b}\text{ The mendela catalog (favorite)}$ <br>
+      $\color{#ca5a1b}\text{ American horror story (favorite)}$ <br>
+      $\color{#ca5a1b}\text{ the Texas chainsaw massacre (kind of)}$ <br>
+     $\color{#ca5a1b}\text{ resident evil 2026 }$ <br>
+     $\color{#ca5a1b}\text{ everymanhybrid }$ <br>
+     $\color{#ca5a1b}\text{ zeroday2003 (favorite)}$ <br>
+     $\color{#ca5a1b}\text{  elephant2003 (kind of)}$ <br>
+     $\color{#ca5a1b}\text{ spree }$ <br>
+      $\color{#ca5a1b}\text{ creep2014 }$ <br>
+     $\color{#ca5a1b}\text{  I'll put more later )}$ <br>
+    </details>
+    <details>
+      <summary>$\color{#ca5a1b}\text{IWC}$</summary>
+      $\color{#ca5a1b}\text{- wip}$ <br>
+      $\color{#ca5a1b}\text{- wip )}$ <br>
+      $\color{#ca5a1b}\text{-  wip }$ <br>
+      $\color{#ca5a1b}\text{- wip }$ <br>
+      $\color{#ca5a1b}\text{- wip}$ <br>
+    </details>
+
+  </details>
+</div>
  
