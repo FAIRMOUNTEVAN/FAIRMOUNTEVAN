@@ -98,6 +98,4 @@ ${{\color{#9F2150}\texttt{offtab}}}$
     </details>
 </details>
 
-<img width="400" height="400" alt="Untitled1641_20261116224427" src="https://github.com/user-attachments/assets/51548756-5227-45d3-8a52-7cb23e15cd67" />
-
 </div>
