@@ -1,9 +1,6 @@
    $${\textsf{\color{#550F08} **I would like to make it clear that I am not TCC just because i like zeroday.**}}$$
 
 <p align="center">
-<img width="540" height="306" alt="tate" src="https://github.com/user-attachments/assets/4e3464d1-8a6a-4e99-9e78-ce6b8dc4e999" />
-
-   
-
+<img width="450" height="255" alt="tate" src="https://github.com/user-attachments/assets/9f1d8185-cc0d-48ad-8043-ca22d5e39dea" />
 
    $${\textsf{\color{#550F08} **finally remaking this**}}$$
