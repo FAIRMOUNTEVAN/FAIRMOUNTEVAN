@@ -61,7 +61,7 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
       $\color{#E53D53}\text{ creep2014 }$ <br>
       $\color{#9F2150}\text{ spree }$ <br>
       $\color{#9F2150}\text{  I'll put more later }$ <br>
-    </details
+    </details>
     <details>
       <summary>$\color{#E53D53}\text{ games i enjoy }$</summary>
       $\color{#9F2150}\text{ DOOM 1993}$ <br>
