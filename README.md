@@ -32,7 +32,7 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
       $\color{9F2150}\text{ just know it's not because you did anything wrong }$ 
     </details>
     <details>
-     <summary>$\color{9F2150}\text{ stupid movies / series i like }$</summary>
+     <summary>$\color{9F2150}\text{ stupid movies / series i enjoy }$</summary>
      $\color{#E53D53}\text{ The mendela catalog (favorite)}$ <br>
       $\color{#9F2150}\text{ American horror story (favorite)}$ <br>
       $\color{#E53D53}\text{ the Texas chainsaw massacre (kind of)}$ <br>
@@ -43,6 +43,12 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
      $\color{#9F2150}\text{ spree }$ <br>
       $\color{#E53D53}\text{ creep2014 }$ <br>
      $\color{#9F2150}\text{  I'll put more later }$ <br>
+        <summary>$\color{#E53D53}\text{games i enjoy }$</summary>
+      $\color{#9F2150}\text{ cry of fear}$ <br>
+      $\color{#E53D53}\text{ pyromaniac }$ <br>
+      $\color{#9F2150}\text{ DOOM 1993 }$ <br>
+      $\color{#E53D53}\text{ sally face}$ <br>
+      $\color{#9F2150}\text{ I'll also add more to this later }$ <br>
     </details>
     <details>
       <summary>$\color{#ca5a1b}\text{IWC}$</summary>
