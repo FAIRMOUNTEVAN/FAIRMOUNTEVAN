@@ -37,8 +37,8 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
       $\color{#E53D53}\text{ i suggest not interacting with me}$<br>
       $\color{#9F2150}\text{ if you're really sensitive }$ <br>
       $\color{#E53D53}\text{ i would appreciate it if you told me if i said something that bothers you }$<br>
-      $\color{#9F2150}\text{ and won't say it to you again }$ <br>
-      $\color{#E53D53}\text{ i have a hard time talking to people and can be avoident if i don't know you }$<br>
+      $\color{#9F2150}\text{ and won't say it again }$ <br>
+      $\color{#E53D53}\text{ i have a hard time talking to people and can be avoident especially if i don't know you }$<br>
       $\color{#9F2150}\text{ just know it's not because you did anything wrong }$ 
     </details>
     <details>
