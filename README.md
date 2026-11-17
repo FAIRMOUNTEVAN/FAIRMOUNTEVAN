@@ -2,8 +2,7 @@
 
 <p align="center">
 <img width="400" height="400" alt="another recolor" src="https://github.com/user-attachments/assets/097cb467-cd74-449a-8f1a-e0a237c16276" />
- 
-   <p align="center">
+ <p align="center">
 ${{\color{#0000}\texttt{he    ◞  }}}$
 ${{\color{#0000}\texttt{⠀him}}}$
 <img align="center" 
