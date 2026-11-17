@@ -1,7 +1,7 @@
+I'll make something for names but  call me, HABIT, cal, tate, Simon or reese. 
 <div align="center">
 
-<img width="400" height="400" alt="Untitled1641_20261116224633" src="https://github.com/user-attachments/assets/070182bd-6efd-4cfd-b053-398525600cbf" />
-
+<img width="400" height="400" alt="Untitled1641_20261116224633" src="https://github.com" />
 
 <p>
 ${{\color{#E53D53}\texttt{he}}}$
@@ -39,7 +39,7 @@ ${{\color{#9F2150}\texttt{offtab}}}$
     </details>
     <br>
     <details>
-      <summary>$\color{#9F2150}\text{WIP}$</summary>
+      <summary>$\color{#9F2150}\text{IWC}$</summary>
       <br>
       $\color{#E53D53}\text{w}$ $\color{#9F2150}\text{i}$ $\color{#E53D53}\text{p}$ <br>
       $\color{#E53D53}\text{w}$ $\color{#9F2150}\text{i}$ $\color{#E53D53}\text{p}$ <br>
@@ -49,7 +49,7 @@ ${{\color{#9F2150}\texttt{offtab}}}$
     </details>
     <br>
     <details>
-      <summary>$\color{#E53D53}\text{WIP}$</summary>
+      <summary>$\color{#E53D53}\text{DNI}$</summary>
       <br>
       $\color{#E53D53}\text{w}$ $\color{#9F2150}\text{i}$ $\color{#E53D53}\text{p}$ <br>
       $\color{#E53D53}\text{w}$ $\color{#9F2150}\text{i}$ $\color{#E53D53}\text{p}$ <br>
@@ -63,7 +63,6 @@ ${{\color{#9F2150}\texttt{offtab}}}$
       <br>
       $\color{#E53D53}\text{Things}$ $\color{#D43652}\text{I'm into}$ $\color{#B12851}\text{/}$ $\color{#9F2150}\text{Favorites:}$ <br><br>
       $\color{#E53D53}\text{Movies}$ $\color{#C22F52}\text{\&}$ $\color{#9F2150}\text{Shows:}$ <br>
-      $\color{#E53D53}\text{The}$ $\color{#D43652}\text{Mandela}$ $\color{#B12851}\text{Catalogue}$ $\color{#9F2150}\text{(favorite)}$ <br>
       $\color{#E53D53}\text{American}$ $\color{#D43652}\text{Horror}$ $\color{#B12851}\text{Story}$ $\color{#9F2150}\text{(favorite)}$ <br>
       $\color{#E53D53}\text{Natural}$ $\color{#C22F52}\text{Born}$ $\color{#9F2150}\text{Killers}$ <br>
       $\color{#E53D53}\text{Resident}$ $\color{#C22F52}\text{Evil}$ $\color{#9F2150}\text{(2002)}$ <br>
@@ -71,6 +70,7 @@ ${{\color{#9F2150}\texttt{offtab}}}$
       $\color{#E53D53}\text{Creep}$ $\color{#9F2150}\text{(2014)}$ <br>
       $\color{#C22F52}\text{Spree}$ <br><br>
       $\color{#E53D53}\text{Web}$ $\color{#9F2150}\text{Series:}$ <br>
+      $\color{#E53D53}\text{The}$ $\color{#D43652}\text{Mandela}$ $\color{#B12851}\text{Catalogue}$ $\color{#9F2150}\text{(favorite)}$ <br>
       $\color{#E53D53}\text{zeroday2003}$ $\color{#9F2150}\text{(favorite)}$ <br>
       $\color{#C22F52}\text{EverymanHYBRID}$ <br><br>
       $\color{#C22F52}\text{Games:}$ <br>
@@ -84,3 +84,5 @@ ${{\color{#9F2150}\texttt{offtab}}}$
 </details>
 
 </div>
+Use code with caution.
+Whenever you're ready to fill in your IWC or DNI sections, send the text over and I'll format them to match!
