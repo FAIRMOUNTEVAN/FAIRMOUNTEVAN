@@ -31,7 +31,7 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
       $\color{#9F2150}\text{ kosta  }$ <br>
     </details>
     <details>
-      <summary>$\color{#E53D53}\text{important I guess}$</summary>
+      <summary>$\color{#E53D53}\text{ read this please }$</summary>
       $\color{#9F2150}\text{ I  can be mean and make crude jokes from time to time }$<br>
       $\color{#E53D53}\text{ i suggest not interacting with me}$<br>
       $\color{#9F2150}\text{ if you're really sensitive }$ <br>
