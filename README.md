@@ -34,7 +34,7 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
     <details>
       <summary>stupid shit i like</summary>
 $\color{#E53D53}\text{ The mendela catalog (favorite)}$ <br>
-      $\color{#9F2150}/text{ American horror story (favorite)}$ <br>
+      $\color{#9F2150}\text{ American horror story (favorite)}$ <br>
       $\color{#E53D53}\text{ the Texas chainsaw massacre (kind of)}$ <br>
      $\color{#9F2150}\text{ zeroday2003 (favorite)}$ <br>
      $\color{#E53D53}\text{  elephant2003 (kind of)}$ <br>
