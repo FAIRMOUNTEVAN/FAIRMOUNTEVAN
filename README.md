@@ -68,6 +68,11 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
       $\color{#9F2150}\text{- wip}$ <br>
       $\color{#E53D53}\text{- wip}$ <br>
     </details>
+     <details>
+      <summary>$\color{#9F2150}\text{click to see the best messanges ever}$</summary>
+      <img width="1572" height="564" alt="funny" src="https://github.com/user-attachments/assets/ccce5551-6c79-4284-955c-97ae6dab4cde" />
 
+   </details>
+    
   </details>
 </div>
