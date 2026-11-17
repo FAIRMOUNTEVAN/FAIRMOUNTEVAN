@@ -92,5 +92,3 @@ ${{\color{#9F2150}\texttt{offtab}}}$
 </details>
 
 </div>
-Use code with caution.
-Whenever you're ready to fill in your IWC or DNI sections, send the text over and I'll format them to match!
