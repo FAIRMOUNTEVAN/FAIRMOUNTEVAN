@@ -49,6 +49,7 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
       $\color{#9F2150}\text{ DOOM 1993}$ <br>
       $\color{#E53D53}\text{ cry of fear }$ <br>
       $\color{#9F2150}\text{ pyromaniac }$ <br>
+      $\color{#E53D53}\text{ sally face }$ <br>
     </details>
     <details>
       <summary>$\color{#ca5a1b}\text{IWC}$</summary>
