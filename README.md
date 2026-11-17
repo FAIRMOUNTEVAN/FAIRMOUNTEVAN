@@ -23,11 +23,12 @@ ${{\color{#E53D53}\texttt{offtab}}}$<br>
     
    <details>
       <summary>$\color{#9F2150}\text{ names you can call me }$</summary>
-      $\color{#E53D53}\text{ HABIT }$ <br>
-      $\color{#9F2150}\text{ cal }$ <br>
-      $\color{#E53D53}\text{ simon  }$ <br>
-      $\color{#9F2150}\text{ reese  }$ <br>
-      $\color{#E53D53}\text{ kosta  }$ <br>
+      $\color{#E53D53}\text{ HABIT (favorite) }$ <br>
+      $\color{#9F2150}\text{ cal (favorite) }$ <br>
+      $\color{#E53D53}\text{ tate (favorite) }$ <br>
+      $\color{#9F2150}\text{ simon  }$ <br>
+      $\color{#E53D53}\text{ reese  }$ <br>
+      $\color{#9F2150}\text{ kosta  }$ <br>
     </details>
    <details>
       <summary>$\color{#E53D53}\text{important I guess}$</summary>
