@@ -91,6 +91,7 @@ ${{\color{#9F2150}\texttt{offtab}}}$
       $\color{#E53D53}\text{afraid of }$ $\color{#9F2150}\text{monsters}$ <br>
       $\color{#C22F52}\text{Pyromaniac}$ <br>
       $\color{#E53D53}\text{No,}$ $\color{#D43652}\text{I'm}$ $\color{#C22F52}\text{Not}$ $\color{#B12851}\text{a}$ $\color{#9F2150}\text{Human}$ <br>
+      $\color{#E53D53}\text{hotline}$ $\color{#9F2150}\text{Miami}$ $\color{#9F2150}\text{(favorite)}$ <br>
       $\color{#E53D53}\text{ resident }$ $\color{#9F2150}\text{evil}$  <br>
       $\color{#E53D53}\text{DOOM}$ $\color{#9F2150}\text{(1993)}$ $\color{#9F2150}\text{(favorite)}$ <br>
       $\color{#E53D53}\text{Sally}$ $\color{#9F2150}\text{Face}$
