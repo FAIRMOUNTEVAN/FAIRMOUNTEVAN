@@ -8,7 +8,7 @@ $\color{#E53D53}\text{HABIT,}$ $\color{#D43652}\text{cal (Calvin),}$ $\color{#C2
 <div align="center">
 
 
-<img width="1024" height="1024" alt="Untitled1641_20261116224633" src="https://github.com/user-attachments/assets/bd35b56f-04bc-4287-bdb1-637c1831b196" />
+<img width="400" height="400" alt="Untitled1641_20261116224633" src="https://github.com/user-attachments/assets/bd35b56f-04bc-4287-bdb1-637c1831b196" />
 
 
 
