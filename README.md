@@ -7,7 +7,8 @@ $\color{#E53D53}\text{HABIT,}$ $\color{#D43652}\text{cal (Calvin),}$ $\color{#C2
 
 <div align="center">
 
-<img width="400" height="400" alt="Untitled1641_20261116224633" src="https://github.com/user-attachments/assets/a1ab6e7a-ac85-4ff3-9433-d68808d2f87d" />
+
+<img width="1024" height="1024" alt="Untitled1641_20261116224633" src="https://github.com/user-attachments/assets/bd35b56f-04bc-4287-bdb1-637c1831b196" />
 
 
 
@@ -77,12 +78,15 @@ ${{\color{#9F2150}\texttt{offtab}}}$
       $\color{#E53D53}\text{Movies}$ $\color{#C22F52}\text{\&}$ $\color{#9F2150}\text{Shows:}$ <br>
       $\color{#E53D53}\text{American}$ $\color{#D43652}\text{Horror}$ $\color{#B12851}\text{Story}$ $\color{#9F2150}\text{(favorite)}$ <br>
       $\color{#E53D53}\text{Natural}$ $\color{#C22F52}\text{Born}$ $\color{#9F2150}\text{Killers}$ <br>
-            $\color{#E53D53}\text{the}$ $\color{#D43652}\text{walking}$ $\color{#B12851}\text{dead}$ <br>
+      $\color{#E53D53}\text{the}$ $\color{#D43652}\text{walking}$ $\color{#B12851}\text{dead}$ <br>
       $\color{#E53D53}\text{Resident}$ $\color{#C22F52}\text{Evil}$ $\color{#9F2150}\text{(2026)}$ <br> 
       $\color{#E53D53}\text{zeroday}$ $\color{#9F2150}\text{(2003)}$ $\color{#9F2150}\text{(favorite)}$ <br>
       $\color{#E53D53}\text{Elephant}$ $\color{#9F2150}\text{(2003)}$ <br>
       $\color{#E53D53}\text{Creep}$ $\color{#9F2150}\text{(2014)}$ <br>
-      $\color{#C22F52}\text{Spree}$ <br><br>
+      $\color{#C22F52}\text{Spree}$ <br>
+      $\color{#E53D53}\text{Scary}$ $\color{#DF3B53}\text{Stories}$ $\color{#D43652}\text{to}$ $\color{#C22F52}\text{Tell}$ $\color{#B62A51}\text{in}$ $\color{#B12851}\text{the}$ $\color{#9F2150}\text{Dark}$ <br>
+      $\color{#C22F52}\text{Wolfs}$ <br>
+      $\color{#C22F52}\text{Hannibal}$ <br><br>
       $\color{#E53D53}\text{Web}$ $\color{#9F2150}\text{Series:}$ <br>
       $\color{#E53D53}\text{The}$ $\color{#D43652}\text{Mandela}$ $\color{#B12851}\text{Catalogue}$ $\color{#9F2150}\text{(favorite)}$ <br>
       $\color{#C22F52}\text{EverymanHYBRID}$ $\color{#9F2150}\text{(favorite)}$ <br><br>
