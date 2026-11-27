@@ -86,7 +86,7 @@ ${{\color{#9F2150}\texttt{offtab}}}$
       $\color{#E53D53}\text{Creep}$ $\color{#9F2150}\text{(2014)}$ <br>
       $\color{#C22F52}\text{Spree}$ <br>
       $\color{#E53D53}\text{Scary}$ $\color{#DF3B53}\text{Stories}$ $\color{#D43652}\text{to}$ $\color{#C22F52}\text{Tell}$ $\color{#B62A51}\text{in}$ $\color{#B12851}\text{the}$ $\color{#9F2150}\text{Dark}$ <br>
-      $\color{#C22F52}\text{Wolfs}$ <br>
+      $\color{#E53D53}\text{wolfs}$ $\color{#9F2150}\text{(2024)}$ <br>
       $\color{#C22F52}\text{Hannibal}$ <br><br>
       $\color{#E53D53}\text{Web}$ $\color{#9F2150}\text{Series:}$ <br>
       $\color{#E53D53}\text{The}$ $\color{#D43652}\text{Mandela}$ $\color{#B12851}\text{Catalogue}$ $\color{#9F2150}\text{(favorite)}$ <br>
