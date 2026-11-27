@@ -83,7 +83,6 @@ ${{\color{#9F2150}\texttt{offtab}}}$
       $\color{#E53D53}\text{the}$ $\color{#D43652}\text{walking}$ $\color{#B12851}\text{dead}$ <br>
       $\color{#E53D53}\text{Resident}$ $\color{#C22F52}\text{Evil}$ $\color{#9F2150}\text{(2026)}$ <br> 
       $\color{#E53D53}\text{zeroday}$ $\color{#9F2150}\text{(2003)}$ $\color{#9F2150}\text{(favorite)}$ <br>
-      $\color{#E53D53}\text{Elephant}$ $\color{#9F2150}\text{(2003)}$ <br>
       $\color{#E53D53}\text{Creep}$ $\color{#9F2150}\text{(2014)}$ <br>
       $\color{#C22F52}\text{Spree}$ <br>
       $\color{#E53D53}\text{Scary}$ $\color{#DF3B53}\text{Stories}$ $\color{#D43652}\text{to}$ $\color{#C22F52}\text{Tell}$ $\color{#B62A51}\text{in}$ $\color{#B12851}\text{the}$ $\color{#9F2150}\text{Dark}$ <br>
